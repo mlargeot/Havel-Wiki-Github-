@@ -1,5 +1,5 @@
 # Development Standards
---- 
+
 ## Purpose
 
 This document defines the **development workflow standards** for the **Havel** project, ensuring:
