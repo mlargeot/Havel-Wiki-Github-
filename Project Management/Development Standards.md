@@ -1,13 +1,5 @@
 # Development Standards
 
-## Purpose
-
-This document defines the **development workflow standards** for the **Havel** project, ensuring:
-
-- clear **traceability** of work
-- consistent **naming and structure** across contributions
-- smooth **integration** within the CI/CD pipeline
-
 ## Summary
 - [Branch Naming Convention](#branch-naming-convention)
 	- [Format](#format-1)
@@ -20,6 +12,7 @@ This document defines the **development workflow standards** for the **Havel** p
 - [Commits](#commits)
 	- [Format](#format-2)
 		- [Common Types](#common-types)
+
 ## Branch Naming Convention
 
 Every development branch must follow a **consistent naming pattern** to make tracking and collaboration easier.
